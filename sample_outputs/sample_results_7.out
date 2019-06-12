@@ -1,0 +1,21 @@
+Speedup of Opt1 over Baseline
+com-LiveJournal.mtx 1.27
+com-Orkut.mtx 1.45
+europe_osm.mtx 0.96
+mycielskian19.mtx 1.09 
+RMAT_1.mtx 0.97
+RMAT_2.mtx 0.99
+road_usa.mtx 0.90
+twitter7.mtx 1.2
+GeoMean 1.19
+
+Speedup of Opt1 + Opt2 over Baseline
+com-LiveJournal.mtx 1.82
+com-Orkut.mtx 2.97
+europe_osm.mtx 0.95
+mycielskian19.mtx 1.31
+RMAT_1.mtx 0.97
+RMAT_2.mtx 1.05
+road_usa.mtx 0.90
+twitter7.mtx 11.56
+GeoMean 2.44

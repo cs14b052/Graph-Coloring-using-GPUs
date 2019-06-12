@@ -1,0 +1,22 @@
+% improvement in execution time
+com-LiveJournal.mtx 20.05
+com-Orkut.mtx 7.35
+europe_osm.mtx 42.61
+mycielskian19.mtx 23.73
+RMAT_1.mtx 33.17
+RMAT_2.mtx 20.89
+road_usa.mtx 32.32
+twitter7.mtx -4.87
+GeoMean 22.93
+
+% reduction in memory usage
+com-LiveJournal.mtx 98.5
+com-Orkut.mtx 98.2
+europe_osm.mtx 99.9
+mycielskian19.mtx 85.4
+RMAT_1.mtx 99.4
+RMAT_2.mtx 99.7
+road_usa.mtx 99.8
+twitter7.mtx 99.9
+GeoMean 96.4
+
